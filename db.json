@@ -7,18 +7,16 @@
          "note":"nothing at all",
          "dateInfo":[
             {
-               "20210301":{
-                  "startTime":"08:00",
-                  "endTime":"17:00",
-                  "task":"Dev java"
-               }
+               "day":"20210301",
+               "startTime":"08:00",
+               "endTime":"17:00",
+               "task":"Dev java"
             },
             {
-               "20210302":{
-                  "startTime":"08:00",
-                  "endTime":"17:00",
-                  "task":"Dev Oracle"
-               }
+               "day":"20210302",
+               "startTime":"08:00",
+               "endTime":"17:00",
+               "task":"Dev Oracle"
             }
          ]
       },
@@ -29,18 +27,16 @@
          "note":"nothing at all",
          "dateInfo":[
             {
-               "20210301":{
-                  "startTime":"08:00",
-                  "endTime":"17:00",
-                  "task":"Dev java"
-               }
+               "day":"20210301",
+               "startTime":"08:00",
+               "endTime":"17:00",
+               "task":"Dev java"
             },
             {
-               "20210302":{
-                  "startTime":"08:00",
-                  "endTime":"17:00",
-                  "task":"Dev Oracle"
-               }
+               "day":"20210302",
+               "startTime":"08:00",
+               "endTime":"17:00",
+               "task":"Dev Oracle"
             }
          ]
       }
