@@ -1,18 +1,48 @@
 {
-   "users":[
+   "info":[
       {
-         "name":"to dinh nam",
+         "userId":"namtd",
+         "username":"To Dinh Nam",
          "role":"member",
          "note":"nothing at all",
-         "checkin":"202101010800",
-         "checkout":"202101011700"
+         "dateInfo":[
+            {
+               "20210301":{
+                  "startTime":"08:00",
+                  "endTime":"17:00",
+                  "task":"Dev java"
+               }
+            },
+            {
+               "20210302":{
+                  "startTime":"08:00",
+                  "endTime":"17:00",
+                  "task":"Dev Oracle"
+               }
+            }
+         ]
       },
       {
-         "name":"to dinh nam",
+         "userId":"locdt",
+         "username":"Tran Do Loc",
          "role":"member",
          "note":"nothing at all",
-         "checkin":"202101010800",
-         "checkout":"202101011700"
+         "dateInfo":[
+            {
+               "20210301":{
+                  "startTime":"08:00",
+                  "endTime":"17:00",
+                  "task":"Dev java"
+               }
+            },
+            {
+               "20210302":{
+                  "startTime":"08:00",
+                  "endTime":"17:00",
+                  "task":"Dev Oracle"
+               }
+            }
+         ]
       }
    ]
 }
